@@ -1,0 +1,48 @@
+﻿<Window x:Class="zisa_Dorm_Meal_Plan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zisa_Dorm_Meal_Plan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--Fatima Johora-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0.333,0" >
+            <Label FontSize="20" Content="Select a Dormetory" Background="Beige"></Label>
+            <ComboBox ItemsSource="{Binding Dorms}" SelectedItem="{Binding SelectedDorm}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding DormName}" FontSize="20"></Label>
+                            <Label Content="{Binding DormCharge}" FontSize="20"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel  Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0.333,83.667" Grid.RowSpan="2" >
+            <Label FontSize="20" Content="Select a Meal Plan" Background="Beige"></Label>
+            <ComboBox ItemsSource="{Binding MealPlans}" SelectedItem="{Binding SelectedMealPlan}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding MealPlanName}" FontSize="20"></Label>
+                            <Label Content="{Binding MealPlanCharge}" FontSize="20"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <Button Name="BtnCalcTotal" Grid.Row="2" Content="Calculate Total Charge" FontSize="20" Height="50" Width="300" Click="BtnCalcTotal_Click" Grid.ColumnSpan="2" Margin="247,17.333,246.333,16.667"></Button>
+    </Grid>
+</Window>

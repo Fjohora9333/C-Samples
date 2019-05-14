@@ -1,0 +1,43 @@
+﻿<Window x:Class="Zisa_magic_dates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zisa_magic_dates"
+        mc:Ignorable="d"
+        Title="Magic Number" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Please enter a month" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom"></Label>
+        <TextBox Name="TxtMonth" Grid.Row="0" Grid.Column="1" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom" Height="50" Width="150" VerticalAlignment="Bottom" Margin="5">
+            <TextBox.Text>
+                <Binding Path="Month"></Binding>
+            </TextBox.Text>
+        </TextBox>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Please enter a day" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom"></Label>
+        <TextBox Name="TxtDay" Grid.Row="1" Grid.Column="1" FontSize="30" Text="{Binding Day}" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom" Height="50" Width="150" VerticalAlignment="Bottom" Margin="5"></TextBox>
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Please enter a year" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom"></Label>
+        <TextBox Name="TxtYear" Grid.Row="2" Grid.Column="1" FontSize="30" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom" Height="50" Width="150" VerticalAlignment="Bottom" Margin="5">
+            <TextBox.Text>
+                <Binding Path="Year"></Binding>
+            </TextBox.Text>
+        </TextBox>
+        <Label Name="LbResult" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontSize="30" Content="{Binding Result}" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center"></Label>
+        <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="BtnResult" Content="View result" Height="50" FontSize="25" Margin="100 0" Click="BtnResult_Click"></Button>
+            <Button Name="Btnclear" Content="clear" Height="50" Width="150" FontSize="25" Margin="100 0" Click="Btnclear_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

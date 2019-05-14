@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\bin\Debug\Zisa_magic_dates.exe.config
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\bin\Debug\Zisa_magic_dates.exe
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\bin\Debug\Zisa_magic_dates.pdb
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.g.resources
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.exe
+C:\Users\ace_shah\source\repos\Zisa_magic_dates\Zisa_magic_dates\obj\Debug\Zisa_magic_dates.pdb

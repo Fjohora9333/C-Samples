@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\bin\Debug\ZisaMassWeightConverter.exe.config
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\bin\Debug\ZisaMassWeightConverter.exe
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\bin\Debug\ZisaMassWeightConverter.pdb
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.g.resources
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.exe
+C:\Users\ace_shah\source\repos\ZisaMassWeightConverter\ZisaMassWeightConverter\obj\Debug\ZisaMassWeightConverter.pdb

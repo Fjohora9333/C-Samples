@@ -1,0 +1,50 @@
+﻿<Window x:Class="Joe_s_Ski_Resort.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Joe_s_Ski_Resort"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--Fatima Tuj Johora,Section:1-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Row="0" >
+            <Label FontSize="20" Content="Select a Ski Type" Background="Beige"></Label>
+            <ComboBox ItemsSource="{Binding Skies}" SelectedItem="{Binding SelectedSKi}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding SkiName}" FontSize="20"></Label>
+                            <Label Content="{Binding SkiCharge}" FontSize="20"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel  Grid.Row="1" >
+            <Label FontSize="20" Content="Select a Fuel Type" Background="Beige"></Label>
+            <ComboBox ItemsSource="{Binding Fuels}" SelectedItem="{Binding SelectedFuel}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding FuelName}" FontSize="20"></Label>
+                            <Label Content="{Binding FuelCharge}" FontSize="20"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Label Content="Enter Number of day" FontSize="15"></Label>
+            <TextBox  Text="{Binding Day}" FontSize="20"></TextBox>
+        </StackPanel>
+        <Button Name="BtnCalcTotal" Grid.Row="3" Content="Calculate Total Charge" FontSize="20" Height="50" Width="300" Click="BtnCalcTotal_Click"></Button>
+    </Grid>
+</Window>

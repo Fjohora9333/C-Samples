@@ -1,0 +1,17 @@
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\bin\Debug\Zisa_Car_Class.exe.config
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\bin\Debug\Zisa_Car_Class.exe
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\bin\Debug\Zisa_Car_Class.pdb
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.g.resources
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.exe
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\Zisa_Car_Class.pdb
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\DetailWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Car_Class\Zisa_Car_Class\obj\Debug\DetailWindow.baml

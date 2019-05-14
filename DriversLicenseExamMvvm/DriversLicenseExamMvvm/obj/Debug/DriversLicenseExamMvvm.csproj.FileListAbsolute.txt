@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\bin\Debug\DriversLicenseExamMvvm.exe.config
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\bin\Debug\DriversLicenseExamMvvm.exe
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\bin\Debug\DriversLicenseExamMvvm.pdb
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.g.resources
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.exe
+C:\Users\ace_shah\source\repos\DriversLicenseExamMvvm\DriversLicenseExamMvvm\obj\Debug\DriversLicenseExamMvvm.pdb

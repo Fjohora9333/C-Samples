@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\bin\Debug\Zisa_Change_for_a_doller_game.exe.config
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\bin\Debug\Zisa_Change_for_a_doller_game.exe
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\bin\Debug\Zisa_Change_for_a_doller_game.pdb
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.g.resources
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.exe
+C:\Users\ace_shah\source\repos\Zisa_Change_for_a_doller_game\Zisa_Change_for_a_doller_game\obj\Debug\Zisa_Change_for_a_doller_game.pdb

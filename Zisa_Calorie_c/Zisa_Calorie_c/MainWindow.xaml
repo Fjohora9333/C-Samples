@@ -1,0 +1,38 @@
+﻿<!--Fatima Johora-->
+    <Window x:Class="Zisa_Calorie_c.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zisa_Calorie_c"
+        mc:Ignorable="d"
+        Title="CalorieCounter" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button Name="BtnApple" Grid.Row="1" Click="BtnApple_Click" Margin="50 5">
+            <Image Source="images/AppleCalories.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Name="BtnBanana" Grid.Row="1" Grid.Column="1" Click="BtnBanana_Click"  Margin="50 5">
+            <Image Source="images/BananaCalories.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Name="Btnorange" Grid.Row="2" Click="Btnorange_Click"  Margin="50 5">
+            <Image Source="images/OrangeCalories.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Name="BtnPear" Grid.Row="2" Grid.Column="1" Click="BtnPear_Click"  Margin="50 5">
+            <Image Source="images/PearCalories.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Label Grid.Row="1" Grid.Column="2" Height="50" Width="200" Content="Total Calorie" FontSize="30" VerticalAlignment="Bottom" BorderThickness="3" BorderBrush="Black" Background="LightBlue"></Label>
+        <Label Name="LbOut" Grid.Row="2" Grid.Column="2"  Height="100" Width="200" FontSize="35" VerticalAlignment="Top" BorderThickness="3" BorderBrush="Black" Content="{Binding TotalCalorie}"></Label>
+        <Button Name="BtnReset" Grid.Row="3" Grid.Column="2" Content="Reset" FontSize="30" Background="LightGoldenrodYellow" Margin="40 10" Click="BtnReset_Click"></Button>
+    </Grid>
+</Window>

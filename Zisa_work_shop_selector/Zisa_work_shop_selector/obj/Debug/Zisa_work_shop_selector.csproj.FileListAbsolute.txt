@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\bin\Debug\Zisa_work_shop_selector.exe.config
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\bin\Debug\Zisa_work_shop_selector.exe
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\bin\Debug\Zisa_work_shop_selector.pdb
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.g.resources
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.exe
+C:\Users\ace_shah\source\repos\Zisa_work_shop_selector\Zisa_work_shop_selector\obj\Debug\Zisa_work_shop_selector.pdb

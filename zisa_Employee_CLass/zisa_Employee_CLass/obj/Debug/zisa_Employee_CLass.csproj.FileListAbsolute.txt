@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\bin\Debug\zisa_Employee_CLass.exe.config
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\bin\Debug\zisa_Employee_CLass.exe
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\bin\Debug\zisa_Employee_CLass.pdb
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.g.resources
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.exe
+C:\Users\ace_shah\source\repos\zisa_Employee_CLass\zisa_Employee_CLass\obj\Debug\zisa_Employee_CLass.pdb

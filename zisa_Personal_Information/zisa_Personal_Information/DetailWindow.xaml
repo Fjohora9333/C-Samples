@@ -1,0 +1,32 @@
+﻿<Window x:Class="zisa_Personal_Information.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zisa_Personal_Information"
+        mc:Ignorable="d"
+        Title="Window1" Height="300" Width="500">
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="Prople:" FontSize="20" FontWeight="Bold"></Label>
+        <StackPanel Grid.Column="0" Grid.Row="1" HorizontalAlignment="Right">
+            <Label Content="Name:" FontSize="15" HorizontalContentAlignment="Right"></Label>
+            <Label Content="Address:" FontSize="15" HorizontalContentAlignment="Right"></Label>
+            <Label Content="Age:" FontSize="15" HorizontalContentAlignment="Right"></Label>
+            <Label Content="Phone:" FontSize="15" HorizontalContentAlignment="Right"></Label>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Background="PapayaWhip">
+            <Label Content="{Binding SelectedPerson.Name}" FontSize="15" HorizontalContentAlignment="Left" VerticalAlignment="Center"></Label>
+            <Label Content="{Binding SelectedPerson.Address}" FontSize="15" HorizontalContentAlignment="Left" VerticalAlignment="Center"></Label>
+            <Label Content="{Binding SelectedPerson.Age}" FontSize="15" HorizontalContentAlignment="Left" VerticalAlignment="Center"></Label>
+            <Label Content="{Binding SelectedPerson.Phone}" FontSize="15" HorizontalContentAlignment="Left" VerticalAlignment="Center"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

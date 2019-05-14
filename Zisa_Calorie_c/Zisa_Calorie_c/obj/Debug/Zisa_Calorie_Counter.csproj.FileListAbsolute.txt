@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_Counter.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\bin\Debug\Zisa_Calorie_c.exe.config
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\bin\Debug\Zisa_Calorie_c.exe
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\bin\Debug\Zisa_Calorie_c.pdb
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c.g.resources
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_Counter.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_Counter.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c.exe
+C:\Users\ace_shah\source\repos\Zisa_Calorie_c\Zisa_Calorie_c\obj\Debug\Zisa_Calorie_c.pdb

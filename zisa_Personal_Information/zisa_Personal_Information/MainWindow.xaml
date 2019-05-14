@@ -1,0 +1,64 @@
+﻿<Window x:Class="zisa_Personal_Information.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zisa_Personal_Information"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <GroupBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Header="Add Person Form" FontWeight="DemiBold" Foreground="Black" BorderBrush="Black" Background="PapayaWhip">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Name="LbName" Content="Name:" Grid.Row="0" Grid.Column="0" FontSize="20" HorizontalAlignment="Right" Margin="5"></Label>
+                <Label Name="LbAge" Content="Age:" Grid.Row="1" Grid.Column="0" FontSize="20" HorizontalAlignment="Right" Margin="5"></Label>
+                <Label Name="LbAddress" Content="Address:" Grid.Row="0" Grid.Column="2" FontSize="20" HorizontalAlignment="Right" Margin="5"></Label>
+                <Label Name="LbPhone" Content="Phone:" Grid.Row="1" Grid.Column="2" FontSize="20" HorizontalAlignment="Right" Margin="5"></Label>
+                <TextBox Name="TxtName" Text="{Binding NewName}" Grid.Row="0" Grid.Column="1" Margin="10" FontSize="15" HorizontalContentAlignment="Left"></TextBox>
+                <TextBox Name="TxtAge" Text="{Binding NewAge}" Grid.Row="1" Grid.Column="1" Margin="10" FontSize="15" HorizontalContentAlignment="Left"></TextBox>
+                <TextBox Name="TxtAddress" Text="{Binding NewAddress}" Grid.Row="0" Grid.Column="3" Margin="10" FontSize="15" HorizontalContentAlignment="Left"></TextBox>
+                <TextBox Name="TxtPhone" Text="{Binding NewPhone}" Grid.Row="1" Grid.Column="3" Margin="10" FontSize="15" HorizontalContentAlignment="Left"></TextBox>
+                <Button Name="BtnClearForm" Content="Clear Form" Grid.Row="2" Grid.Column="1" Margin="5" FontSize="20" Click="BtnClearForm_Click"></Button>
+                <Button Name="BtnAddPerson" Content="Add Person to List" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Margin="5" FontSize="20" Click="BtnAddPerson_Click"></Button>
+            </Grid>
+        </GroupBox>
+        <Label Grid.Row="1" Grid.Column="0" Content="Person:" FontSize="25" HorizontalAlignment="Right"></Label>
+        <ListBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="5" ItemsSource="{Binding People}" SelectedItem="{Binding SelectedPerson}" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding Name}" Background="{Binding Color}"></Label>
+                        <Label Content="{Binding Age}"></Label>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Name="BtnViewDetail" Grid.Row="1" Grid.Column="3" Content="View Detail" Margin="5" FontSize="15" Click="BtnViewDetail_Click"></Button>
+        <Button Name="BtnDownloadTemplate" Grid.Row="2" Grid.Column="0" Content="Download Template File" Margin="5" FontSize="15" Click="BtnDownloadTemplate_Click_1"></Button>
+        <Button Name="BtnImportTemplate" Grid.Row="2" Grid.Column="1" Content="Import People From File" Margin="5" FontSize="15" Click="BtnImportTemplate_Click"></Button>
+        <Button Name="BtnSavePeaple" Grid.Row="2" Grid.Column="2" Content="Save People" Margin="5" FontSize="15" Click="BtnSavePeaple_Click"></Button>
+        <Button Name="BtnDeletePeople" Grid.Row="2" Grid.Column="3" Content="Delete People" Margin="5" FontSize="15" Click="BtnDeletePeople_Click"></Button>
+
+    </Grid>
+</Window>

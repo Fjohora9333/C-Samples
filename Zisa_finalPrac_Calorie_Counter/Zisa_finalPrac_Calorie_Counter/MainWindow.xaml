@@ -1,0 +1,39 @@
+﻿<Window x:Class="Zisa_finalPrac_Calorie_Counter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zisa_finalPrac_Calorie_Counter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Name="BtnApple" Margin="50 5 25 5" Click="BtnApple_Click">
+                <Image Source="images/AppleCalories.bmp" ></Image>
+            </Button>
+            <Button Name="BtnBanana" Margin="25 5" Click="BtnBanana_Click">
+                <Image Source="images/BananaCalories.bmp" ></Image>
+            </Button>
+             <Button Name="BtnOrange" Margin="25 5" Click="BtnOrange_Click">
+                <Image Source="images/OrangeCalories.bmp" ></Image>
+            </Button>
+            <Button Name="BtnPear" Margin="25 5" Click="BtnPear_Click">
+                <Image Source="images/PearCalories.bmp" ></Image>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Label Name="LbNumOfApple" FontSize="25" Margin="5" Content="{Binding NumOfApple}"></Label>
+            <Label Name="LbNumOfBanana" FontSize="25" Margin="5" Content="{Binding NumOfBanana}"></Label>
+            <Label Name="LbNumOfOrange" FontSize="25" Margin="5" Content="{Binding NumOfOrange}"></Label>
+            <Label Name="LbNumOfPear" FontSize="25" Margin="5" Content="{Binding NumOfPear}"></Label>
+        </StackPanel>
+        <Label Name="LbTotalCalorie" Grid.Row="2" FontSize="25" Margin="5" Content="{Binding TotalCalorie}"></Label>
+        <Button Grid.Row="3" Name="BtnClear" Content="Clear" Height="50" FontSize="25" Width="200" Click="BtnClear_Click"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\bin\Debug\Zisa_Retail_Item_Class.exe.config
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\bin\Debug\Zisa_Retail_Item_Class.exe
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\bin\Debug\Zisa_Retail_Item_Class.pdb
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.g.resources
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.exe
+C:\Users\ace_shah\source\repos\Zisa_Retail_Item_Class\Zisa_Retail_Item_Class\obj\Debug\Zisa_Retail_Item_Class.pdb

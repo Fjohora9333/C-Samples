@@ -1,0 +1,17 @@
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\bin\Debug\zisa_Personal_Information.exe.config
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\bin\Debug\zisa_Personal_Information.exe
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\bin\Debug\zisa_Personal_Information.pdb
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.g.resources
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.exe
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\zisa_Personal_Information.pdb
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\DetailWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_Personal_Information\zisa_Personal_Information\obj\Debug\DetailWindow.baml

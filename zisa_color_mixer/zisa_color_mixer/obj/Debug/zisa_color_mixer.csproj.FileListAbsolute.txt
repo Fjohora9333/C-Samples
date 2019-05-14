@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\bin\Debug\zisa_color_mixer.exe.config
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\bin\Debug\zisa_color_mixer.exe
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\bin\Debug\zisa_color_mixer.pdb
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.g.resources
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.exe
+C:\Users\ace_shah\source\repos\zisa_color_mixer\zisa_color_mixer\obj\Debug\zisa_color_mixer.pdb

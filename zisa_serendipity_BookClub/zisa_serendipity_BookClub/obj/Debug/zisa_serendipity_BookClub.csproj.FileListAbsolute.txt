@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\bin\Debug\zisa_serendipity_BookClub.exe.config
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\bin\Debug\zisa_serendipity_BookClub.exe
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\bin\Debug\zisa_serendipity_BookClub.pdb
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.g.resources
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.exe
+C:\Users\ace_shah\source\repos\zisa_serendipity_BookClub\zisa_serendipity_BookClub\obj\Debug\zisa_serendipity_BookClub.pdb

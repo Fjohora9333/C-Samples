@@ -1,0 +1,16 @@
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\bin\Release\zisa_AddressBook.exe.config
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\bin\Release\zisa_AddressBook.exe
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\bin\Release\zisa_AddressBook.pdb
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\DetailWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\App.g.cs
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\DetailWindow.baml
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\MainWindow.baml
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.g.resources
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.exe
+C:\Users\ace_shah\source\repos\zisa_AddressBook\zisa_AddressBook\obj\Release\zisa_AddressBook.pdb

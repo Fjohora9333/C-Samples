@@ -1,0 +1,15 @@
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\bin\Debug\Zisa_pennies_for_pay.exe.config
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\bin\Debug\Zisa_pennies_for_pay.exe
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\bin\Debug\Zisa_pennies_for_pay.pdb
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.csprojAssemblyReference.cache
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\MainWindow.g.cs
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\App.g.cs
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay_MarkupCompile.cache
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay_MarkupCompile.lref
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\MainWindow.baml
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.g.resources
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.Properties.Resources.resources
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.csproj.GenerateResource.cache
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.csproj.CoreCompileInputs.cache
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.exe
+C:\Users\ace_shah\source\repos\Zisa_pennies_for_pay\Zisa_pennies_for_pay\obj\Debug\Zisa_pennies_for_pay.pdb
